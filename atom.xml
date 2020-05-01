@@ -2,53 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-05-01T13:56:55.908Z</updated>
+    <updated>2020-05-01T14:49:46.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
-    <subtitle>巴莫动画工作室，法人：马先生</subtitle>
+    <subtitle>生活安乐时，作绝望之诗
+失意受挫时，写生之欢愉</subtitle>
     <logo>https://ma20388.github.io/images/avatar.png</logo>
     <icon>https://ma20388.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 巴莫动画工作室</rights>
     <entry>
-        <title type="html"><![CDATA[老马]]></title>
+        <title type="html"><![CDATA[巴莫动画工作室]]></title>
         <id>https://ma20388.github.io/post/lao-ma/</id>
         <link href="https://ma20388.github.io/post/lao-ma/">
         </link>
         <updated>2020-05-01T13:55:19.000Z</updated>
-        <content type="html"><![CDATA[<p>巴莫动画工作室</p>
+        <content type="html"><![CDATA[<p>失去的岁月<br>
+不像丢失的包袱<br>
+可以到失物招领处找得回来，<br>
+失去的岁月<br>
+甚至不知丢失在什么地方——<br>
+有的是零零星星地消失的，<br>
+有的丢失了十年二十年，<br>
+有的丢失在喧闹的城市，<br>
+有的丢失在遥远的荒原，<br>
+有的是人潮汹涌的车站，<br>
+有的是冷冷清清的小油灯下面；<br>
+丢失了的不像是纸片，可以拣起来<br>
+倒更像一碗水投到地面<br>
+被晒干了，看不到一点影子；<br>
+时间是流动的液体——<br>
+用筛子、用网，都打捞不起；<br>
+时间不可能变成固体，<br>
+要成了化石就好了，<br>
+即使几万年也能在岩层里找见i<br>
+时间也像是气体，<br>
+像急驰的列车头上冒出的烟！<br>
+失去了的岁月好像一个朋友，<br>
+断掉了联系，经受了一些苦难，<br>
+忽然得到了消息；说他<br>
+早已离开了人间</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[富贵险中求]]></title>
         <id>https://ma20388.github.io/post/hello-gridea/</id>
         <link href="https://ma20388.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<p><img src="https://ma20388.github.io/post-images/1588344320733.jpg" alt="" loading="lazy"><br>
+把旧世界打个落花流水    让鲜红的太阳照遍全球</p>
+<p>一束<br>
+在我和世界之间<br>
+你是海湾，是帆<br>
+是缆绳忠实的两端<br>
+你是喷泉，是风<br>
+是童年清脆的呼喊<br>
+在我和世界之间<br>
+你是画框，是窗口<br>
+是开满野花的田园<br>
+你是呼吸，是床头<br>
+是陪伴星星的夜晚<br>
+在我和世界之间<br>
+你是日历，是罗盘<br>
+是暗中滑行的光线<br>
+你是履历，是书签<br>
+是写在最后的序言<br>
+在我和世界之间<br>
+你是纱幕，是雾<br>
+是映入梦中的灯盏<br>
+你是口笛，是无言之歌<br>
+是石雕低垂的眼帘<br>
+在我和世界之间<br>
+你是鸿沟，是池沼<br>
+是正在下陷的深渊<br>
+你是栅栏，是墙垣<br>
+是盾牌上永久的图案</p>
 ]]></content>
     </entry>
 </feed>
