@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-05-01T19:03:17.551Z</updated>
+    <updated>2020-05-01T19:06:37.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -33,7 +33,11 @@
         <link href="https://ma20388.github.io/post/lao-ma/">
         </link>
         <updated>2020-05-01T13:55:19.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ma20388.github.io/post-images/1588349241211.jpg" alt="" loading="lazy"></figure>
+]]></summary>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ma20388.github.io/post-images/1588349241211.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>本站免费提供maya模型插件，动画学习资源，如需要联系客服，学术方面可进群讨论切除.............</p>
 ]]></content>
     </entry>
 </feed>
