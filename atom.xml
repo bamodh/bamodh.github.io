@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-05-01T19:06:37.453Z</updated>
+    <updated>2020-05-01T19:07:36.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -24,6 +24,9 @@
 <figure data-type="image" tabindex="5"><img src="https://ma20388.github.io/post-images/1588351577810.jpg" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="6"><img src="https://ma20388.github.io/post-images/1588351621504.jpg" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="7"><img src="https://ma20388.github.io/post-images/1588351894369.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://ma20388.github.io/post-images/1588360020370.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://ma20388.github.io/post-images/1588360034789.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://ma20388.github.io/post-images/1588360044518.jpg" alt="" loading="lazy"></figure>
 <!-- more -->😶还请大佬多多指教
 ]]></content>
     </entry>
