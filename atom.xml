@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bamo.github.io</id>
+    <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-05-01T18:03:13.207Z</updated>
+    <updated>2020-05-01T18:07:27.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bamo.github.io"/>
-    <link rel="self" href="https://bamo.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ma20388.github.io"/>
+    <link rel="self" href="https://ma20388.github.io/atom.xml"/>
     <subtitle>生活安乐时，作绝望之诗
 失意受挫时，写生之欢愉</subtitle>
-    <logo>https://bamo.github.io/images/avatar.png</logo>
-    <icon>https://bamo.github.io/favicon.ico</icon>
+    <logo>https://ma20388.github.io/images/avatar.png</logo>
+    <icon>https://ma20388.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 巴莫动画工作室</rights>
     <entry>
         <title type="html"><![CDATA[圆珠笔绘画]]></title>
-        <id>https://bamo.github.io/post/yuan-zhu-bi-hui-hua/</id>
-        <link href="https://bamo.github.io/post/yuan-zhu-bi-hui-hua/">
+        <id>https://ma20388.github.io/post/yuan-zhu-bi-hui-hua/</id>
+        <link href="https://ma20388.github.io/post/yuan-zhu-bi-hui-hua/">
         </link>
         <updated>2020-05-01T16:35:02.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://bamo.github.io/post-images/1588351189286.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://bamo.github.io/post-images/1588351273788.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://bamo.github.io/post-images/1588351350636.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://bamo.github.io/post-images/1588351516222.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="5"><img src="https://bamo.github.io/post-images/1588351577810.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="6"><img src="https://bamo.github.io/post-images/1588351621504.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="7"><img src="https://bamo.github.io/post-images/1588351894369.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ma20388.github.io/post-images/1588351189286.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://ma20388.github.io/post-images/1588351273788.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://ma20388.github.io/post-images/1588351350636.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://ma20388.github.io/post-images/1588351516222.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://ma20388.github.io/post-images/1588351577810.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://ma20388.github.io/post-images/1588351621504.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://ma20388.github.io/post-images/1588351894369.jpg" alt="" loading="lazy"></figure>
 <!-- more -->😶还请大佬多多指教
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[把旧世界打个落花流水   让鲜红的阳光覆盖大地]]></title>
-        <id>https://bamo.github.io/post/lao-ma/</id>
-        <link href="https://bamo.github.io/post/lao-ma/">
+        <id>https://ma20388.github.io/post/lao-ma/</id>
+        <link href="https://ma20388.github.io/post/lao-ma/">
         </link>
         <updated>2020-05-01T13:55:19.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://bamo.github.io/post-images/1588349241211.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ma20388.github.io/post-images/1588349241211.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
