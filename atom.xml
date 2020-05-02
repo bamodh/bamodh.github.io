@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-05-02T04:29:18.002Z</updated>
+    <updated>2020-05-02T04:29:40.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -11,18 +11,6 @@
     <logo>https://ma20388.github.io/images/avatar.png</logo>
     <icon>https://ma20388.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 巴莫动画工作室</rights>
-    <entry>
-        <title type="html"><![CDATA[影视推荐]]></title>
-        <id>https://ma20388.github.io/post/ying-shi-tui-jian/</id>
-        <link href="https://ma20388.github.io/post/ying-shi-tui-jian/">
-        </link>
-        <updated>2020-05-02T04:18:13.000Z</updated>
-        <content type="html"><![CDATA[<p>黑夜大地2012<br>
-—冲出宁静号，超级战舰——v星入侵，黑暗表面——遗落战境《云图》《初始者》《逆流的色彩》<br>
-《生命之树》《橡皮头》《前目的地》《穆赫兰道》)《2001太空漫游》《皮囊之下》《美国精神病人》《纽约提喻法》<br>
-金基德的电影《空房间》，《收件人不明》</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[广告位招租]]></title>
         <id>https://ma20388.github.io/post/fu-ye/</id>
@@ -324,6 +312,18 @@ https://send.firefox.com/</p>
 <figure data-type="image" tabindex="9"><img src="https://ma20388.github.io/post-images/1588360034789.jpg" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="10"><img src="https://ma20388.github.io/post-images/1588360044518.jpg" alt="" loading="lazy"></figure>
 <!-- more -->😶还请大佬多多指教
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影视推荐]]></title>
+        <id>https://ma20388.github.io/post/ying-shi-tui-jian/</id>
+        <link href="https://ma20388.github.io/post/ying-shi-tui-jian/">
+        </link>
+        <updated>2018-05-09T04:18:13.000Z</updated>
+        <content type="html"><![CDATA[<p>黑夜大地2012<br>
+—冲出宁静号，超级战舰——v星入侵，黑暗表面——遗落战境《云图》《初始者》《逆流的色彩》<br>
+《生命之树》《橡皮头》《前目的地》《穆赫兰道》)《2001太空漫游》《皮囊之下》《美国精神病人》《纽约提喻法》<br>
+金基德的电影《空房间》，《收件人不明》</p>
 ]]></content>
     </entry>
     <entry>
