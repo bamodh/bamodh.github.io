@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-05-02T01:25:45.064Z</updated>
+    <updated>2020-05-02T01:28:12.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -12,7 +12,7 @@
     <icon>https://ma20388.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 巴莫动画工作室</rights>
     <entry>
-        <title type="html"><![CDATA[副业]]></title>
+        <title type="html"><![CDATA[产品]]></title>
         <id>https://ma20388.github.io/post/fu-ye/</id>
         <link href="https://ma20388.github.io/post/fu-ye/">
         </link>
