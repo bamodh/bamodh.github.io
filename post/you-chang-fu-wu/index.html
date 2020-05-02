@@ -1,13 +1,20 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>服务 | 巴莫动画工作室</title>
-<link rel="shortcut icon" href="https://ma20388.github.io/favicon.ico?v=1588385801841">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://ma20388.github.io/favicon.ico?v=1588386249163">
 <link rel="stylesheet" href="https://ma20388.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="服务 | 巴莫动画工作室 - Atom Feed" href="https://ma20388.github.io/atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
@@ -23,89 +30,88 @@ Adobe Illustrator
 3/12
 Adobe premier..." />
     <meta name="keywords" content="" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://ma20388.github.io">
-  <img class="avatar" src="https://ma20388.github.io/images/avatar.png?v=1588385801841" alt="">
-  </a>
-  <h1 class="site-title">
-    巴莫动画工作室
-  </h1>
-  <p class="site-description">
-    生活安乐时，作绝望之诗
-失意受挫时，写生之欢愉
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://ma20388.github.io">
+        <img src="https://ma20388.github.io/images/avatar.png?v=1588386249163" class="site-logo">
+        <h1 class="site-title">巴莫动画工作室</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="/" class="menu">
-          首页
-        </a>
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
       
-    
+        
+          <a href="https://ma20388.github.io/post/you-chang-fu-wu" class="site-nav">
+            推广
+          </a>
+        
       
-        <a href="https://ma20388.github.io/post/you-chang-fu-wu" class="menu">
-          推广
-        </a>
+        
+          <a href="/post/about" class="site-nav">
+            简介
+          </a>
+        
       
-    
+        
+          <a href="/archives" class="site-nav">
+            摘要
+          </a>
+        
       
-        <a href="/post/about" class="menu">
-          简介
-        </a>
+        
+          <a href="https://ma20388.github.io/post/gan-huo-man-man" class="site-nav">
+            福利
+          </a>
+        
       
-    
-      
-        <a href="/archives" class="menu">
-          摘要
-        </a>
-      
-    
-      
-        <a href="https://ma20388.github.io/post/gan-huo-man-man" class="menu">
-          福利
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      生活安乐时，作绝望之诗
+失意受挫时，写生之欢愉
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://ma20388.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              服务
-            </h2>
-            <div class="post-info">
-              <span>
-                2019-05-05
-              </span>
-              <span>
-                4 min read
-              </span>
-              
-            </div>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">服务</h2>
+            <div class="post-date">2019-05-05</div>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <p>无偿&amp;有偿<br>
+            <div class="post-content" v-pre>
+              <p>无偿&amp;有偿<br>
 <img src="https://ma20388.github.io/post-images/1588385159270.png" alt="" loading="lazy"><br>
 1/12 Adobe photoshop<br>
 图片制作，编辑<br>
@@ -177,76 +183,45 @@ Lightwave是一款完美的建模的软件，能够将建模与布局分开，�
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://ma20388.github.io/post-images/1588379864886.png" alt="" loading="lazy"></figure>
 
-              </div>
-              <div class="toc-container">
-                
-              </div>
             </div>
-          </article>
-        </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://ma20388.github.io/post/lao-ma/">
+                  <h3 class="post-title">
+                    把旧世界打个落花流水   让鲜红的阳光覆盖大地
+                  </h3>
+                </a>
+              </div>
+            
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://ma20388.github.io/post/lao-ma/">
-              <h3 class="post-title">
-                把旧世界打个落花流水   让鲜红的阳光覆盖大地
-              </h3>
-            </a>
+            
+
           </div>
-        
 
-        
-
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://ma20388.github.io/atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
+        </div>
       </div>
     </div>
 
-    <script>
-      hljs.initHighlightingOnLoad()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+AOS.init();
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
+</script>
 
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
 
-    </script>
+
+
+
+
   </body>
 </html>
