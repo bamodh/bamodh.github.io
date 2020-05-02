@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-05-02T00:44:21.077Z</updated>
+    <updated>2020-05-02T00:52:38.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -18,7 +18,7 @@
         </link>
         <updated>2020-05-02T00:25:58.000Z</updated>
         <content type="html"><![CDATA[<p>投资理财顾问，为你私人定制定投腾讯，阿里理财市场。</p>
-<p>同人网文量身定制，</p>
+<p>同人网文量身定制</p>
 ]]></content>
     </entry>
     <entry>
@@ -27,9 +27,17 @@
         <link href="https://ma20388.github.io/post/you-chang-fu-wu/">
         </link>
         <updated>2020-05-02T00:09:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>logo设计    封面制作   海报制作     动画角色设计   剧本   文案    音效 短片制作    广告宣传</p>
+        <summary type="html"><![CDATA[<p>无偿服务</p>
+<p>各类软件插件学习资源<br>
+<img src="https://ma20388.github.io/post-images/1588380753261.png" alt="" loading="lazy"></p>
+<p>有偿服务</p>
+<p>logo设计    封面制作   海报制作     动画角色设计   剧本   文案    音效 短片制作    广告宣传</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>logo设计    封面制作   海报制作     动画角色设计   剧本   文案    音效 短片制作    广告宣传</p>
+        <content type="html"><![CDATA[<p>无偿服务</p>
+<p>各类软件插件学习资源<br>
+<img src="https://ma20388.github.io/post-images/1588380753261.png" alt="" loading="lazy"></p>
+<p>有偿服务</p>
+<p>logo设计    封面制作   海报制作     动画角色设计   剧本   文案    音效 短片制作    广告宣传</p>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://ma20388.github.io/post-images/1588379864886.png" alt="" loading="lazy"></figure>
 ]]></content>
