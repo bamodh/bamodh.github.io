@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-05-02T00:17:57.394Z</updated>
+    <updated>2020-05-02T00:29:52.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -11,6 +11,16 @@
     <logo>https://ma20388.github.io/images/avatar.png</logo>
     <icon>https://ma20388.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 巴莫动画工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[副业]]></title>
+        <id>https://ma20388.github.io/post/fu-ye/</id>
+        <link href="https://ma20388.github.io/post/fu-ye/">
+        </link>
+        <updated>2020-05-02T00:25:58.000Z</updated>
+        <content type="html"><![CDATA[<p>投资理财顾问，为你私人定制定投腾讯，阿里理财市场。</p>
+<p>同人网文量身定制，</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有偿服务]]></title>
         <id>https://ma20388.github.io/post/you-chang-fu-wu/</id>
