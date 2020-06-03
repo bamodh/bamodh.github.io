@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-06-03T09:06:58.788Z</updated>
+    <updated>2020-06-03T09:29:25.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -11,6 +11,15 @@
     <logo>https://ma20388.github.io/images/avatar.png</logo>
     <icon>https://ma20388.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 巴莫动画工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[3a大作]]></title>
+        <id>https://ma20388.github.io/post/3a-da-zuo/</id>
+        <link href="https://ma20388.github.io/post/3a-da-zuo/">
+        </link>
+        <updated>2020-06-03T09:27:56.000Z</updated>
+        <content type="html"><![CDATA[<p>几乎涵盖市场上所有单机游戏<img src="https://ma20388.github.io/post-images/1591176553947.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超新星刷课教程]]></title>
         <id>https://ma20388.github.io/post/chao-xin-xing-shua-ke-jiao-cheng/</id>
