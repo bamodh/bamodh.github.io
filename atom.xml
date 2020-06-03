@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-06-03T08:14:53.039Z</updated>
+    <updated>2020-06-03T08:27:12.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -11,6 +11,28 @@
     <logo>https://ma20388.github.io/images/avatar.png</logo>
     <icon>https://ma20388.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 巴莫动画工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[超新星刷课教程]]></title>
+        <id>https://ma20388.github.io/post/chao-xin-xing-shua-ke-jiao-cheng/</id>
+        <link href="https://ma20388.github.io/post/chao-xin-xing-shua-ke-jiao-cheng/">
+        </link>
+        <updated>2020-06-03T08:17:44.000Z</updated>
+        <content type="html"><![CDATA[<p>还在为看无聊的网课，而感到厌倦吗?<br>
+授人以鱼不如授人以渔。废话不多说，教程开始~</p>
+<p>首先，第一步。<br>
+去百度上下载一个microsoft  ede 注意要下·最新版的，</p>
+<p>完成后再接着进行第二步</p>
+<p>安装浏览器插件，为什么是microsoft  edge 因为它支持谷歌浏览器的内核，</p>
+<p>阔以先搜集装箱再接着从集装箱里找tamprmonkey，插件安装之后，进入学习通网页，点开运行自动刷题，视频快进需要，按住f12进入开发者模式，按ctrl+f，在显示条内，搜索，fastforward，删除整段就ok了。<br>
+<img src="https://ma20388.github.io/post-images/1591172541646.png" alt="" loading="lazy"></p>
+<p>microsoft  edge浏览器点开后，里面的扩展商城里找相应插件，<br>
+1是tamprmonkey，2是集装箱，必不可少</p>
+<p>tamprmonkey，插件安装之后，先进入https://greasyfork.org/zh-CN脚本中心，关键词搜索超新星，然后安装网课助手脚本<br>
+<img src="https://ma20388.github.io/post-images/1591172546136.png" alt="" loading="lazy"><br>
+好嘞，遇到不懂问题阔以问，或者发截屏，按笔记本快捷键rrtsc/sysrq，最终，出现上图这个界面效果才能定义为正在刷课中<img src="https://ma20388.github.io/post-images/1591172550696.jpg" alt="" loading="lazy"><br>
+有什么问题阔以问在下，在线解答</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工欲善其事必先利其器]]></title>
         <id>https://ma20388.github.io/post/you-chang-fu-wu/</id>
