@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-06-04T03:36:11.447Z</updated>
+    <updated>2020-06-04T03:41:54.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -67,6 +67,8 @@
 <!-- more -->
 <p>在浏览器页面内要自己打开学习通网站，并且登录账号，有些电脑会出现乱码的现象<br>
 不过问题不大，重新搜索替换脚本就好了。<br>
+其实，点开集装箱之后页面下脚就有tamprmonkey，<br>
+还有，不要安装过多插件，浏览器过重荷载，影响电脑性能<br>
 <img src="https://ma20388.github.io/post-images/1591241329376.png" alt="" loading="lazy"></p>
 <p>考试刷题亲试i可行，maya题库不是很全，持续更新中，有什么问题阔以微信咨询，十二小时在线解答</p>
 ]]></content>
