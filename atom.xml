@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma20388.github.io</id>
     <title>巴莫动画工作室</title>
-    <updated>2020-12-12T09:11:44.204Z</updated>
+    <updated>2021-04-14T16:07:49.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma20388.github.io"/>
     <link rel="self" href="https://ma20388.github.io/atom.xml"/>
@@ -10,7 +10,7 @@
 失意受挫时，写生之欢愉</subtitle>
     <logo>https://ma20388.github.io/images/avatar.png</logo>
     <icon>https://ma20388.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 巴莫动画工作室</rights>
+    <rights>All rights reserved 2021, 巴莫动画工作室</rights>
     <entry>
         <title type="html"><![CDATA[超新星刷课教程]]></title>
         <id>https://ma20388.github.io/post/chao-xin-xing-shua-ke-jiao-cheng/</id>
